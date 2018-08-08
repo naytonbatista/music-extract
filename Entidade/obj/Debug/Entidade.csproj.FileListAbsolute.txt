@@ -1,0 +1,6 @@
+C:\Users\nayton\Dropbox\AppLivroMusica\MusicBook\Entidade\bin\Debug\Entidade.dll
+C:\Users\nayton\Dropbox\AppLivroMusica\MusicBook\Entidade\bin\Debug\Entidade.pdb
+C:\Users\nayton\Dropbox\AppLivroMusica\MusicBook\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\nayton\Dropbox\AppLivroMusica\MusicBook\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\nayton\Dropbox\AppLivroMusica\MusicBook\Entidade\obj\Debug\Entidade.dll
+C:\Users\nayton\Dropbox\AppLivroMusica\MusicBook\Entidade\obj\Debug\Entidade.pdb

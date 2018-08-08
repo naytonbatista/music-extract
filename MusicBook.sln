@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicBook", "MusicBook\MusicBook.csproj", "{7506D092-84DD-46A4-B95B-6FC56911837B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{DE784CEB-9C54-4974-8E77-123E367253DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidade", "Entidade\Entidade.csproj", "{B3FBAF99-47DE-4AA6-8ED2-8D2F61A1C2F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7506D092-84DD-46A4-B95B-6FC56911837B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7506D092-84DD-46A4-B95B-6FC56911837B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7506D092-84DD-46A4-B95B-6FC56911837B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7506D092-84DD-46A4-B95B-6FC56911837B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE784CEB-9C54-4974-8E77-123E367253DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE784CEB-9C54-4974-8E77-123E367253DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE784CEB-9C54-4974-8E77-123E367253DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE784CEB-9C54-4974-8E77-123E367253DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3FBAF99-47DE-4AA6-8ED2-8D2F61A1C2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FBAF99-47DE-4AA6-8ED2-8D2F61A1C2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FBAF99-47DE-4AA6-8ED2-8D2F61A1C2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FBAF99-47DE-4AA6-8ED2-8D2F61A1C2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7CF9F56-F484-467D-827D-DE28DB98A374}
+	EndGlobalSection
+EndGlobal
